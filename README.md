@@ -1,4 +1,4 @@
-Fizz Buzz Calculator
+Fizz Buzzer
 =============
 
 We are going to write a program called Fizz Buzzer. The requirements for the program
